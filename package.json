@@ -2,12 +2,11 @@
   "name": "algorithm-practice",
   "version": "1.0.0",
   "description": "leetcode 算法练习",
-  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "chord",
+  "license": "MIT",
   "devDependencies": {
     "@types/jest": "^26.0.13",
     "jest": "^26.4.2",
