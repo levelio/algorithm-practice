@@ -19,10 +19,11 @@ yarn run test
 
 ## Resolve problem list
 
-| 题号 | 标题       | 来源                                                           |
-| ---- | ---------- | -------------------------------------------------------------- |
-| 1    | 两数之和   | [leetcode](https://leetcode-cn.com/problems/two-sum/)          |
-| 125  | 回文字判断 | [leetcode](https://leetcode-cn.com/problems/valid-palindrome/) |
+| 题号 | 标题                       | 来源                                                                           |
+| ---- | -------------------------- | ------------------------------------------------------------------------------ |
+| 1    | 两数之和                   | [leetcode](https://leetcode-cn.com/problems/two-sum/)                          |
+| 125  | 回文字判断                 | [leetcode](https://leetcode-cn.com/problems/valid-palindrome/)                 |
+| 167  | 两数之和 II - 输入有序数组 | [leetcode](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) |
 
 ---
 
