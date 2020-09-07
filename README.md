@@ -21,6 +21,7 @@ yarn run test
 
 | 题号 | 标题       | 来源                                                           |
 | ---- | ---------- | -------------------------------------------------------------- |
+| 1    | 两数之和   | [leetcode](https://leetcode-cn.com/problems/two-sum/)          |
 | 125  | 回文字判断 | [leetcode](https://leetcode-cn.com/problems/valid-palindrome/) |
 
 ---

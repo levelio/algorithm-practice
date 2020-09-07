@@ -1,6 +1,6 @@
 const { isPalindrome } = require('./isPalindrome')
 
-describe('is palindrome', () => {
+describe('problem-125 #isPalindrome', () => {
   test('" race a E-car " is palindrome', () => {
     const input = ' race a E-car '
     expect(isPalindrome(input)).toBe(true)
