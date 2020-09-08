@@ -30,6 +30,11 @@ yarn run test
 | 240  | 搜索二维矩阵 II            | [leetcode](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/description/) |
 | 371  | 两整数之和                 | [leetcode](https://leetcode-cn.com/problems/sum-of-two-integers/)               |
 
+## VSCode Plugin Usage
+
+- [LeetCode](https://marketplace.visualstudio.com/items?itemName=LeetCode.vscode-leetcode)
+- [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
+
 ---
 
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
