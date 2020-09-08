@@ -22,6 +22,7 @@ yarn run test
 | 题号 | 标题                       | 来源                                                                            |
 | ---- | -------------------------- | ------------------------------------------------------------------------------- |
 | 1    | 两数之和                   | [leetcode](https://leetcode-cn.com/problems/two-sum/)                           |
+| 100  | 相同的                     | [leetcode](https://leetcode-cn.com/problems/same-tree/description/)             |
 | 101  | 对称二叉树                 | [leetcode](https://leetcode-cn.com/problems/symmetric-tree/)                    |
 | 125  | 回文字判断                 | [leetcode](https://leetcode-cn.com/problems/valid-palindrome/)                  |
 | 136  | 只出现一次的数字           | [leetcode](https://leetcode-cn.com/problems/single-number/)                     |
