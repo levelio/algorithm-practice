@@ -26,8 +26,8 @@ yarn run test
 | 125  | 回文字判断                 | [leetcode](https://leetcode-cn.com/problems/valid-palindrome/)                  |
 | 136  | 只出现一次的数字           | [leetcode](https://leetcode-cn.com/problems/single-number/)                     |
 | 167  | 两数之和 II - 输入有序数组 | [leetcode](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)  |
-| 371  | 两整数之和                 | [leetcode](https://leetcode-cn.com/problems/sum-of-two-integers/)               |
 | 240  | 搜索二维矩阵 II            | [leetcode](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/description/) |
+| 371  | 两整数之和                 | [leetcode](https://leetcode-cn.com/problems/sum-of-two-integers/)               |
 
 ---
 
